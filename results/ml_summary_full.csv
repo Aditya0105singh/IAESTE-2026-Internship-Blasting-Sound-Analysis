@@ -1,0 +1,2 @@
+n_files,n_features,pressure_rmse,pressure_r2,material_accuracy,material_f1,mix_rmse,mix_r2
+1568,35,0.9746,0.5315,0.7953,0.7942,21.8572,0.4426

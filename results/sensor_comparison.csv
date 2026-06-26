@@ -1,0 +1,5 @@
+sensor,rmse_bar,r2,n_files
+Mic46BE,1.0984,0.4049,56
+AccAxial4507,1.2026,0.2867,56
+AccRadial4507,1.2297,0.2542,56
+Mic147EB,1.2371,0.2451,56
