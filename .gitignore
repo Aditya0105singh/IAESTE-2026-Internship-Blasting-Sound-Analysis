@@ -214,8 +214,14 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Large data files (WAV recordings — too large for GitHub)
+# Large data files — WAV recordings are too large for GitHub (6+ GB)
+# Store locally or via DVC / cloud storage
 data/
+*.wav
+*.WAV
+
+# Notebook generator helper script
+create_notebook.py
 
 # Streamlit
 .streamlit/secrets.toml
