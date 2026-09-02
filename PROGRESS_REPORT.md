@@ -146,7 +146,7 @@ Valid LOSO results:
 | Evaluation | R² / Accuracy |
 |---|---|
 | Pressure: full LOSO (7 sessions) | R²=0.54 ± 0.18 — **generalises well** |
-| Pressure: within-material LOSO (G80, GH120) | R²=0.33–0.46 — moderate drop |
+| Pressure: within-material LOSO (G80, GH120) | R²=0.31–0.46 — moderate drop |
 | Mix ratio: within-material LOSO | R²=0.03–0.35 — session-sensitive |
 
 #### Feature Importance

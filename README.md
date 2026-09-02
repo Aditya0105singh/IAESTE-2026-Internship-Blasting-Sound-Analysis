@@ -44,7 +44,7 @@ Recordings were collected based on variations of three parameters:
 
 ### Dataset Summary
 
-File Duration is 30 to 60 seconds (determined by how quickly the abrasive container emptied based on pressure, mix ratio, and nozzle size). Blasting parameters remained constant during each individual recording. Some tests were repeated across different days.
+File Duration is 28 to 90 seconds (determined by how quickly the abrasive container emptied based on pressure, mix ratio, and nozzle size). Blasting parameters remained constant during each individual recording. Some tests were repeated across different days.
 
 
 ### File Naming Convention
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 # 2. Set Python path (required for the iaeste26 package)
 $env:PYTHONPATH = "src"
 
-# 3. Run the test suite (55 tests)
+# 3. Run the test suite (90 tests)
 pytest tests/ -v
 
 # 4. Open the technical report notebook

@@ -225,3 +225,6 @@ create_notebook.py
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scratch file used by push_*.py scripts (gh api request body)
+_gh_body.json
